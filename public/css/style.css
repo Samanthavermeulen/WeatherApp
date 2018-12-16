@@ -1,0 +1,39 @@
+/*
+
+font-family: 'Major Mono Display', monospace;
+font-family: 'Nunito', sans-serif;
+font-family: 'Fira Sans', sans-serif;
+font-family: 'Just Me Again Down Here', cursive;
+
+*/
+
+h1 {
+    font-family: 'Fira Sans', sans-serif !important;
+}
+
+p {
+    font-family: 'Fira Sans', sans-serif;
+}
+.hero.is-primary {
+    background-color: rebeccapurple !important;
+    color: #fff;
+}
+
+.button.is-info {
+    background-color: rebeccapurple !important;
+    border-color: transparent;
+    color: #fff;
+}
+
+#footer {
+    bottom: 0;
+    width: 100%;
+    position: absolute;
+    background-color: #f5f5f5;
+}
+
+.footer-block {
+    margin: 20px 0;
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+}
